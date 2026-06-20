@@ -1,0 +1,29 @@
+{
+  "name": "project3-database-integration",
+  "version": "1.0.0",
+  "description": "A repository about database where i write queries to handle my data .",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahan-Waheed728/project3-database-integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahan-Waheed728/project3-database-integration/issues"
+  },
+  "homepage": "https://github.com/Shahan-Waheed728/project3-database-integration#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
