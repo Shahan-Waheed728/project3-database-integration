@@ -73,7 +73,7 @@ MONGO_URI=your_mongodb_connection_string
 ![Local Host](screenshots/localhost.png)
 
 ### Mongodb Cluster State
-![Cluster State](screenshots/mongodbuser1.png)
+![Cluster State](screenshots/mongodbuser.png)
 
 ### Create new User
 ![New User](screenshots/createuser.png)
