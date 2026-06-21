@@ -66,6 +66,23 @@ MONGO_URI=your_mongodb_connection_string
 ```
 
 ---
+---
+## Screenshots
+
+### Local Host
+![Local Host](screenshots/localhost.png)
+
+### Mongodb Cluster State
+![Cluster State](screenshots/mongodbuser1.png)
+
+### Create new User
+![New User](screenshots/createuser.png)
+
+### Get all Users
+![All Users](screenshots/getusers.png)
+
+### Email already exists
+![Email Error](screenshots/emailexists.png)
 
 ## Database Schema
 
